@@ -1,0 +1,10 @@
+{
+    "workbench.settings.useSplitJSON": false,
+    "intelephense.environment.includePaths": [
+        "C:/path/to/wordpress",
+        "/var/www/wordpress"
+    ],
+    "intelephense.stubs": ["wordpress"],
+    "intelephense.files.associations": ["**/*.php", "**/wp-content/plugins/**"],
+    "cSpell.words": ["numberposts", "Zhovner"]
+}
